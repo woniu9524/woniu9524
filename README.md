@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/55396173?v=4" width="120" style="border-radius:50%"/>
-  
+<div align="center">  
   # 👋 Hi, I'm ZhangCheng
-  
   <p><em>Full Stack Engineer | Open Source Enthusiast</em></p>
   
   <p>
