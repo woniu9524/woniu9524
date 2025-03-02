@@ -1,5 +1,7 @@
-<div align="center">  
+<div align="center"> 
+  
   # 👋 Hi, I'm ZhangCheng
+  
   <p><em>Full Stack Engineer | Open Source Enthusiast</em></p>
   
   <p>
@@ -8,9 +10,7 @@
     <a href="https://github.com/woniu9524"><img src="https://img.shields.io/github/followers/woniu9524?label=Follow&style=social" alt="GitHub"></a>
     <img src="https://komarev.com/ghpvc/?username=woniu9524&color=brightgreen&style=flat-square" alt="Profile Views">
   </p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=woniu9524&theme=onedark&column=9&margin-w=10&margin-h=15" alt="trophy" />
-  </a>
+
 </div>
 
 
